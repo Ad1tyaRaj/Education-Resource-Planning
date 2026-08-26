@@ -229,16 +229,16 @@ After adding your sanitized screenshots:
 
 ## Dashboard Preview
 
-![Overview](<img width="905" height="501" alt="overview" src="https://github.com/user-attachments/assets/29fc9b9a-3693-49fa-9c74-aaa115c8d104" />
+(<img width="905" height="501" alt="overview" src="https://github.com/user-attachments/assets/29fc9b9a-3693-49fa-9c74-aaa115c8d104" />
 )
 
-![Enrolment & Gender](<img width="887" height="500" alt="enrolment-gender" src="https://github.com/user-attachments/assets/6574c54a-87ab-472e-b539-fdc6d994a8d5" />
+(<img width="887" height="500" alt="enrolment-gender" src="https://github.com/user-attachments/assets/6574c54a-87ab-472e-b539-fdc6d994a8d5" />
 )
 
-![Priority Analysis](<img width="889" height="498" alt="priority" src="https://github.com/user-attachments/assets/f20ed4f1-293f-4e24-aa33-a405d1209896" />
+(<img width="889" height="498" alt="priority" src="https://github.com/user-attachments/assets/f20ed4f1-293f-4e24-aa33-a405d1209896" />
 )
 
-![Summary](<img width="904" height="505" alt="summary" src="https://github.com/user-attachments/assets/7d2eca10-6346-40db-9cc4-8b5321f722f6" />
+(<img width="904" height="505" alt="summary" src="https://github.com/user-attachments/assets/7d2eca10-6346-40db-9cc4-8b5321f722f6" />
 )
 
 📁 Repository Structure
