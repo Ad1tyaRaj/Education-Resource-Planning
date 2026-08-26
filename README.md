@@ -11,7 +11,19 @@
 <img src="https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge">
 </p>
 
-Portfolio Project: A school-level education analytics case study focused on enrolment, gender composition and planning-priority analysis.
+A school-level education analytics case study focused on enrolment, gender composition and planning-priority analysis.
+
+## 👨‍💻 My Contribution
+
+- Cleaned and prepared school-level enrolment data using Python/Pandas
+- Created school-level analytical features
+- Developed gender and enrolment indicators
+- Designed a weighted Priority Score framework
+- Created DAX measures for interactive analysis
+- Built a 4-page Power BI dashboard
+- Designed school-level and block-level visualizations
+- Converted analytical results into planning-oriented insights
+- Documented assumptions and data-privacy considerations
 
 🚀 Project at a Glance
 
@@ -308,17 +320,7 @@ Raw Data → Cleaning → Feature Engineering → Priority Scoring → Classific
 
 The project demonstrates how data analytics can move beyond basic visualization and create a structured decision-support framework for identifying where further planning attention may be required.
 
-## 👨‍💻 My Contribution
 
-- Cleaned and prepared school-level enrolment data using Python/Pandas
-- Created school-level analytical features
-- Developed gender and enrolment indicators
-- Designed a weighted Priority Score framework
-- Created DAX measures for interactive analysis
-- Built a 4-page Power BI dashboard
-- Designed school-level and block-level visualizations
-- Converted analytical results into planning-oriented insights
-- Documented assumptions and data-privacy considerations
 
 👤 Author
 
