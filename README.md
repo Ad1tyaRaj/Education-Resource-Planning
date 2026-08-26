@@ -47,7 +47,10 @@ Education Resource Planning
 
 Raw enrolment data contains many school-level records, but stakeholders need concise answers:
 
-Where is enrolment concentrated? Where is gender imbalance higher? Which schools have relatively high enrolment? Which schools may require relatively higher planning attention?
+Where is enrolment concentrated?
+Where is gender imbalance higher?
+Which schools have relatively high enrolment?
+Which schools may require relatively higher planning attention?
 
 This project converts raw records into derived analytical indicators and presents them through an interactive Power BI dashboard.
 
@@ -78,6 +81,9 @@ LOW / MEDIUM / HIGH / VERY HIGH
 INTERACTIVE POWER BI DASHBOARD
       ↓
 PLANNING-ORIENTED INSIGHTS
+
+<img width="1774" height="887" alt="Flow chart" src="https://github.com/user-attachments/assets/a1633240-b451-486e-b321-b9cb53d2560a" />
+
 
 🧠 Feature Engineering
 
@@ -229,31 +235,35 @@ After adding your sanitized screenshots:
 
 ## Dashboard Preview
 
-(<img width="905" height="501" alt="overview" src="https://github.com/user-attachments/assets/29fc9b9a-3693-49fa-9c74-aaa115c8d104" />
-)
+### Overview
+<img width="905" height="501" alt="overview" src="https://github.com/user-attachments/assets/29fc9b9a-3693-49fa-9c74-aaa115c8d104" />
 
-(<img width="887" height="500" alt="enrolment-gender" src="https://github.com/user-attachments/assets/6574c54a-87ab-472e-b539-fdc6d994a8d5" />
-)
 
-(<img width="889" height="498" alt="priority" src="https://github.com/user-attachments/assets/f20ed4f1-293f-4e24-aa33-a405d1209896" />
-)
+### Enrolment & Gender Analytics
+<img width="887" height="500" alt="enrolment-gender" src="https://github.com/user-attachments/assets/6574c54a-87ab-472e-b539-fdc6d994a8d5" />
 
-(<img width="904" height="505" alt="summary" src="https://github.com/user-attachments/assets/7d2eca10-6346-40db-9cc4-8b5321f722f6" />
-)
+### Priority & School Analytics
+<img width="889" height="498" alt="priority" src="https://github.com/user-attachments/assets/f20ed4f1-293f-4e24-aa33-a405d1209896" />
+
+### Summary & School Analytics
+<img width="904" height="505" alt="summary" src="https://github.com/user-attachments/assets/7d2eca10-6346-40db-9cc4-8b5321f722f6" />
+
 
 📁 Repository Structure
 
 Education-Resource-Planning/
 │
 ├── README.md
+│
 ├── dashboard/
-│   └── screenshots/
-├── notebooks/
-│   └── feature_engineering.ipynb
-├── documentation/
-│   └── project-flow.png
-└── assets/
-    └── project-thumbnail.png
+│   └── |
+│       ├── overview.png
+│       ├── enrolment-gender.png
+│       ├── priority.png
+│       └── summary.png
+│
+└── documentation/
+    └── project-flow.png
 
 💡 Key Questions Answered
 
@@ -281,33 +291,34 @@ Which schools have higher Priority Scores?
 How can raw enrolment data be transformed into planning-oriented insights?
 
 
-🔐 Data Privacy
+## 🔐 Data Privacy
 
 The original dataset contains confidential information.
 
-Do not publish:
+For this public portfolio:
 
-❌ Original confidential CSV/XLSX files
-
-❌ Sensitive school-level identifiers
-
-❌ Restricted UDISE/school-level information
-
-❌ A public Power BI link exposing confidential data
-
-For the portfolio, use:
-
-✅ Sanitized screenshots
-
-✅ Anonymized/sample data
-
-✅ Methodology and feature-engineering documentation
+- ❌ Original confidential dataset is not published
+- ❌ Sensitive school-level identifiers are not exposed
+- ❌ Confidential Power BI reports are not shared publicly
+- ✅ Only sanitized dashboard screenshots and project methodology are presented
 
 📈 Project Outcome
 
 Raw Data → Cleaning → Feature Engineering → Priority Scoring → Classification → Power BI → Planning Insights
 
 The project demonstrates how data analytics can move beyond basic visualization and create a structured decision-support framework for identifying where further planning attention may be required.
+
+## 👨‍💻 My Contribution
+
+- Cleaned and prepared school-level enrolment data using Python/Pandas
+- Created school-level analytical features
+- Developed gender and enrolment indicators
+- Designed a weighted Priority Score framework
+- Created DAX measures for interactive analysis
+- Built a 4-page Power BI dashboard
+- Designed school-level and block-level visualizations
+- Converted analytical results into planning-oriented insights
+- Documented assumptions and data-privacy considerations
 
 👤 Author
 
